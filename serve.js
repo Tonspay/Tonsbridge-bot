@@ -79,8 +79,4 @@ function getBot() {
     return bot;
 }
 
-module.exports = {
-    init,
-    getBot,
-    paymentCallback
-}
+init()

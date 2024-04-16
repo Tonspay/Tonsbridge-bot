@@ -16,7 +16,8 @@ More details about *Tonsbridge* can be found [here](https://docs.tonspay.top/ton
 const buttonText = {
     "main": [
         `Bridge`,
-        `Source Code`
+        `Source Code`,
+        `Share Tonsbridge`
     ],
 }
 

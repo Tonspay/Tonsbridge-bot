@@ -1,6 +1,6 @@
 # Tonsbridge bot
 
-**Tonsbridge , aggregator of bridges solutions of TON**
+**Tonsbridge , aggregator of bridges solutions of TON** . [Try it](https://t.me/tonsbridge_bot)
 
 There are many bridges on TON for asserts to transfer cross chains . Some of them are official-bridges and some of them are support jetton token / NFT only . 
 
