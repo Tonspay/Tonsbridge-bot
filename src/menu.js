@@ -19,8 +19,8 @@ async function main(bot, uid, req, data) {
                     "url": "https://github.com/Tonspay/Tonspay-demo-steam-mystery-box-bot"
                 }],
                 [{
-                    "text": lan.buttonText.payment[2],
-                    url: encodeURI(`https://t.me/share/url?url=${selflink}&text=Please pay this invoice for me ! Thanks !`)
+                    "text": lan.buttonText.main[2],
+                    url: encodeURI(`https://t.me/share/url?url=${selflink}&text=Please Bridge with Tonsbridge`)
                 }]
             ]
         })
